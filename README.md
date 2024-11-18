@@ -17,7 +17,7 @@ Before you begin, ensure you have the following:
 
 ## Project Structure
 The project directory is organized as follows:
-.
+
 ├── ai_lambda.tf
 ├── genai-lambda-package.zip
 ├── lex2-bot.tf
