@@ -1,5 +1,6 @@
 # Lab Test Project: AWS BedRock and LEX2 Agents with Terraform
-# BTW: I am actively looking for a DevOps/Clod Engineer work. Please hire me !
+#
+# BTW: I am actively looking for a DevOps/Clod Engineer job. Please considering me !
 
 ## Overview
 This project demonstrates the use of Terraform to create AWS BedRock and LEX2 agents and establish communication between them. 
@@ -18,11 +19,12 @@ Before you begin, ensure you have the following:
 ## Project Structure
 The project directory is organized as follows:
 
-├── ai_lambda.tf
-├── genai-lambda-package.zip
-├── lex2-bot.tf
-├── lex2-intent.tf
-├── main.tf
-├── outputs.tf
-├── provider.tf
-└── variables.tf
+ ai_lambda.tf
+ genai-lambda-package.zip
+ lex2-bot.tf
+ lex2-intent.tf
+ main.tf
+ outputs.tf
+ provider.tf
+ variables.tf
+ 
