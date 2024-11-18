@@ -1,6 +1,6 @@
 # Lab Test Project: AWS BedRock and LEX2 Agents with Terraform
 
-# *BTW: I am actively looking for a DevOps/Clod Engineer job. Please considering me !*
+# *BTW: I am actively looking for a DevOps/Cloud Engineer job. Please considering me !*
 
 
 
